@@ -1,4 +1,4 @@
-1- BRİEF DESCRİPTİON OF THE SYSTEM 
+1- BRIEF DESCRİPTİON OF THE SYSTEM 
  
 The main purpose of our project is to provide customers with broad access by facilitating the online buying and selling of products and services. 
  
